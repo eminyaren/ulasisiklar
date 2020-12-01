@@ -5,15 +5,11 @@ images: ["images/ulasisiklar.jpg"]
 ---
 
 
-Ulaş Işıklar, Kırklareli’de doğdu. Lisans ve yüksek lisansını Ege Üniversitesi İletişim Fakültesi Radyo TV Sinema Bölümü’nde tamamladı. Halen aynı bölümde doktora öğrenimine devam etmektedir.
+1977’de Kırklareli’de doğdu. Ege Üniversitesi İletişim Fakültesi Radyo TV Sinema Bölümü’ndeki lisans ve yüksek lisansın ardından, “Türk Sinemasındaki Auteur Yönetmenlerin Filmlerinde Nihilizm ve Birey” başlıklı teziyle doktorasını tamamladı. İstanbul Beykent Üniversitesi Güzel Sanatlar Fakültesi Sinema TV (İngilizce) Bölümü’nde öğretim üyesi olarak görev yapmaktadır.
+Birçok kısa film, video-klip, tanıtım ve eğitim filminin yönetmenliğini yaptı. “Nemesis; Ölüler Valsi” adlı kısa filmle Ege Üniversitesi 2003 kısa film yarışması kurmaca kategorisinde Birincilik ve Selçuk Üniversitesi 2003 kısa film yarışması Jüri Özel ödülü, “Shtriga; Bir Vampir Rüyası” adlı kısa filmle Ege Üniversitesi 2004 kısa film festivalinde En İyi Film ödüllerini kazandı. Birçok televizyon dizi ve programının yanı sıra, sinema filmi ve belgesel projelerinde de çeşitli görevler aldı.
+2010’da “Gecenin Çocukları: Son Dönem Korku Sinemasında Vampir Karakterinin Dönüşümü” adlı akademik sinema kitabı Avrupa Yakası Yayınları etiketiyle yayımlandı. Sinemayla ilgili pek çok kitap ve dergide akademik makaleleri yer aldı. İlk romanı “Gece Gelen”, 2013’te Geoturka Yayınları tarafından yayımlandı. Nietzsche, Camus ve Sartre felsefelerinden ipuçları barındıran ikinci romanı Karasinek, 2020’de Klaros Yayınları etiketiyle yayımlandı.
+Hâlihazırda sinema-felsefe alanında tamamladığı doktora tezine uygun şekilde, ‘felsefi’ temaları irdelediği edebi metin ve senaryo yazma çalışmalarını sürdürmekte, ayrıca lisans düzeyinde “Advanced Script Writing”, “Cinematography”, “Film Production”, yüksek lisans düzeyinde ise “Sinema ve Diğer Mecralar” ve “Kültürel Film Eleştirisi” derslerini vermektedir.
 
-Birçok kısa film, video klip, tanıtım ve eğitim filminin yönetmenliğini yaptı. “Nemesis; Ölüler Valsi” adlı kısa filmle Ege Üniversitesi 2003 kısa film yarışması kurmaca kategorisinde Birincilik ve Selçuk Üniversitesi 2003 kısa film yarışması Jüri Özel ödülü, “Shtriga; Bir Vampir Rüyası” adlı kısa filmle Ege Üniversitesi 2004 kısa film festivalinde En İyi Film ödüllerini kazandı. Birçok televizyon dizi ve programının yanı sıra, sinema filmi ve belgesel projelerinde de çeşitli görevler aldı.
-
-2010’da “Gecenin Çocukları: Son Dönem Korku Sinemasında Vampir Karakterinin Dönüşümü” adlı akademik sinema kitabı Avrupa Yakası Yayınları etiketiyle yayımlandı. Ayrıca, en sonuncuları; “Film Eleştirisi; Kuramsal Çerçeve ve Sinemamızdan Örnek Çözümlemeler” (Ayrıntı Yayınları) adlı kitaptaki “Tür Filmi ve Psikanalitik Eleştiri Çerçevesinde Türk Korkusu: Musallat” ve “Medya Temsilleri” (Nobel Yayıncılık) isimli kitaptaki “2000’li Yıllar Amerikan Korku Sinemasında Kadın Karakter Temsilleri” başlıklı makaleler olmak üzere, birçok akademik kitap ve dergide makaleleri yer aldı.
-
-İlk romanı “Gece Gelen; ‘Alev’”, 2013’te Geoturka Yayınları tarafından yayımlandı.
-
-Çeşitli film atölyeleri ve sinema kulüplerinde eğitmenlik yapmakta, roman ve senaryo yazma çalışmalarına devam etmektedir.
 
 ## KISA FİLM KARİYERİ VE KAZANDIĞI ÖDÜLLER
 

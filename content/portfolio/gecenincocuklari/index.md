@@ -4,13 +4,13 @@ description: Bir Ulaş Işıklar kitabı
 date: "2020-11-02T19:47:09+02:00"
 slug: gecenincocuklari
 jobDate: 2010
-work: [roman]
+work: [Akademik Sinema İncelemesi]
 thumbnail: gecenincocuklari/gecenincocuklari.jpg
 testimonial:
   name: Ulaş Işıklar
   role: Yazar
   image: gecenincocuklari/ulasisiklar.jpg
-  text: ""
+  text: "Bu kitap, korku sinemasında yer alan vampir karakterinde meydana gelen değişim ve dönüşümü incelemektedir."
 ---
 
 #### Kitap Adı
