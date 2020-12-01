@@ -1,7 +1,7 @@
 ---
 title: Gecenin Çocukları
 description: Bir Ulaş Işıklar kitabı
-date: "2020-11-02T19:47:09+02:00"
+date: "2020-11-02T19:45:09+02:00"
 slug: gecenincocuklari
 jobDate: 2010
 work: [Akademik Sinema İncelemesi]
