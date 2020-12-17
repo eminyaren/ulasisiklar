@@ -1,5 +1,5 @@
 ---
-title: Ulaş Işıklar’la Mahmut Öztürk Söyleşti
+title: Ulaş Işıklar’la Mahmut Öztürk Söyleşti.
 date: "2020-11-29T19:47:09+02:00"
 
 ---
