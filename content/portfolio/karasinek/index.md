@@ -14,7 +14,7 @@ testimonial:
 ---
 
 ### Kitap Adı
-"Kara Sinek"
+"Karasinek"
 ### Türü
 Felsefi Roman
 ### Dili
