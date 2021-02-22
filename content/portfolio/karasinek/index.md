@@ -1,5 +1,5 @@
 ---
-title: Kara Sinek
+title: Karasinek
 description: Bir Ulaş Işıklar kitabı
 date: "2020-11-02T19:47:09+02:00"
 jobDate: 2020
@@ -16,7 +16,7 @@ testimonial:
 ### Kitap Adı
 "Kara Sinek"
 ### Türü
-Roman
+Felsefi Roman
 ### Dili
 Türkçe
 ### Editör

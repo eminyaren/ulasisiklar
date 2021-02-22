@@ -16,7 +16,7 @@ testimonial:
 ### Kitap Adı
 "39 Merkez; Bir Trakya kentinde kısa film çekmenin aşırı acıklı ve pek gülünç hikâyesi…"
 ### Türü
-Roman
+Biyografik Roman
 ### Dili
 Türkçe
 ### Genel Yayın Yönetmeni
