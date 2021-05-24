@@ -1,6 +1,6 @@
 ---
 title: Kültür Mehtapları
-date: "2021-05-24T19:01:09+02:00"
+date: "2021-05-24T15:01:09+02:00"
 
 ---
 ![poster](/images/kultur.jpeg)
