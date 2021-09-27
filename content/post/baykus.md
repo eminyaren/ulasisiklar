@@ -1,5 +1,5 @@
 ---
-title: Ulaş Işıklar’la Mahmut Öztürk Söyleşti.
+title: Edebiyat ve Sinemada Kurmaca ve Gerçeklik.
 date: "2021-09-26T19:47:09+02:00"
 
 ---

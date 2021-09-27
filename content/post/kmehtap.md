@@ -1,5 +1,5 @@
 ---
-title: Kültür Mehtapları
+title: Kültür Müptelaları
 date: "2021-05-24T15:01:09+02:00"
 
 ---
