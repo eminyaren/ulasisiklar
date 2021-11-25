@@ -1,6 +1,11 @@
 ---
-title: Dr. Ulaş Işıklar İstanbul Beykent Üniversitesi'nde!!!
-date: "2018-10-07T19:47:09+02:00"
+title: Korku ve Gerilim Sinaması
+date: "2021-11-24T19:47:09+02:00"
 
 ---
-Ulaş Işıklar, İstanbul Beykent Üniversitesi Güzel Sanatlar Fakültesi Sinema TV (İngilizce) Bölümü'nde Dr. Öğretim Üyesi olarak göreve başladı.
+![poster](/images/beykent.jpg)
+
+*22 Kasım 2021 Pazartesi günü Beykent Üniversitesi Sinema Kulübü'nün düzenlediği "Korku ve Gerilim Sineması Eğitimi" etkinliğine konuk olan  Dr. Ulaş Işıklar, öğrencilere deneyimlerini aktardı.
+*
+
+
