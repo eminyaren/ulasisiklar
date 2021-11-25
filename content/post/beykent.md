@@ -1,5 +1,5 @@
 ---
-title: Korku ve Gerilim Sinaması
+title: Korku ve Gerilim Sineması
 date: "2021-11-24T19:47:09+02:00"
 
 ---
