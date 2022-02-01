@@ -1,7 +1,6 @@
 ---
-title: Edebiyat Haber Röportaj: Ulaş Işıklar’dan “39 Merkez”: Bellek soruşturmaları
+title: "Edebiyat Haber Röportaj: Ulaş Işıklar’dan “39 Merkez”: Bellek soruşturmaları"
 date: "2022-01-30T09:58:09+02:00"
-
 ---
 
 Röportaja buradan ulaşabilirsiniz:
