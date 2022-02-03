@@ -7,5 +7,6 @@ date: "2022-01-29T08:47:09+02:00"
 
 öyleşiye buradan ulaşabilirsiniz:
 
-https://www.edebiyathaber.net/ulas-isiklardan-39-merkez-bellek-sorusturmalari-nezihe-altug/
+https://birdizibirfiilm.wordpress.com/2022/01/26/yaptigi-filmler-ve-yazdigi-kitaplarla-dikkat-ceken-akademisyen-ulas-isiklar-ile-keyifli-bir-soylesi/
+
 
