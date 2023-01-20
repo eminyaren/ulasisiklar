@@ -5,11 +5,11 @@ date: "2021-12-04T19:47:09+02:00"
 jobDate: 2021
 work: [Akademik Sinema İncelemesi]
 thumbnail: tayfun/GölgelerdekiAuteur.jpg
-slug: nihilizm
+slug: tayfun
 testimonial:
   name: Ulaş Işıklar
   role: Yazar
-  image: nihilizm/ulasisiklar.jpg
+  image: tayfun/GölgelerdekiAuteur.jpg
   text: "Tayfun Pirselimoğlu sineması Türkiye’de film yapan başka hiçbir yönetmende görülmeyecek ölçüde sine-filozofiktir. Tercihen gölgelerde ama sürekli ışıyarak devam eder yolculuğuna…"
 ---
 
