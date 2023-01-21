@@ -1,5 +1,5 @@
 ---
-title: Gölgelerdeki Auteur: Tayfun Pirselimoğlu Sineması
+title: "Gölgelerdeki Auteur: Tayfun Pirselimoğlu Sineması"
 description: Bir Ulaş Işıklar kitabı
 date: "2021-12-04T19:47:09+02:00"
 jobDate: 2021
