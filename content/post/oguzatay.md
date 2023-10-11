@@ -1,5 +1,5 @@
 ---
-title: Öykü.
+title: Oğuz Atay
 date: "2023-10-10T19:47:09+02:00"
 
 ---
