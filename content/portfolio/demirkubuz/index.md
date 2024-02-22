@@ -9,7 +9,7 @@ slug: gecegelen
 testimonial:
   name: Ulaş Işıklar
   role: Yazar
-  image: demirkubuz/DM.jpg
+  image: demirkubuz/ulasisiklar.jpg
   text: (Ulaş Işıklar & Zeki Demirkubuz)
 ---
 
