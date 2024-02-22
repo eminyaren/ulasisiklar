@@ -3,7 +3,7 @@ title: "Demirkubuz: Yolu Yok… Çekeceksin!"
 description: Bir Zeki Demirkubuz kitabına imza atmak…
 date: "2024-02-02T19:47:09+02:00"
 jobDate: 2024
-work: [roman]
+work: [Akademik Sinema İncelemesi]
 thumbnail: demirkubuz/DM.jpg
 slug: gecegelen
 testimonial:
