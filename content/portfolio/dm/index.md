@@ -4,12 +4,12 @@ description: Bir Zeki Demirkubuz kitabına imza atmak…
 date: "2024-02-02T19:47:09+02:00"
 jobDate: 2024
 work: [Akademik Sinema İncelemesi]
-thumbnail: demirkubuz/DM.jpg
+thumbnail: dm/DM.jpg
 slug: gecegelen
 testimonial:
   name: Ulaş Işıklar
   role: Yazar
-  image: demirkubuz/ulasisiklar.jpg
+  image: dm/ulasisiklar.jpg
   text: (Ulaş Işıklar & Zeki Demirkubuz)
 ---
 
