@@ -5,7 +5,7 @@ date: "2024-02-02T19:47:09+02:00"
 jobDate: 2024
 work: [Akademik Sinema İncelemesi]
 thumbnail: dm/DM.jpg
-slug: gecegelen
+slug: dm
 testimonial:
   name: Ulaş Işıklar
   role: Yazar
