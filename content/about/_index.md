@@ -5,61 +5,47 @@ images: ["images/ulasisiklar.jpg"]
 ---
 
 
-1977’de Kırklareli’nde doğdu. Ege Üniversitesi İletişim Fakültesi Radyo TV Sinema
-Bölümü’ndeki lisans ve yüksek lisansın ardından, “Türk Sinemasındaki Auteur
-Yönetmenlerin Filmlerinde Nihilizm ve Birey” başlıklı teziyle doktorasını tamamladı.
-İstanbul Beykent Üniversitesi Güzel Sanatlar Fakültesi Sinema TV (İngilizce) Bölümü’nde
-öğretim üyesi olarak görev yapmaktadır.
+### HAKKINDA
 
-Birçok kısa film, video-klip, tanıtım ve eğitim filminin yönetmenliğini yaptı. “Nemesis;
-Ölüler Valsi” adlı kısa filmle Ege Üniversitesi 2003 kısa film yarışması kurmaca
-kategorisinde Birincilik ve Selçuk Üniversitesi 2003 kısa film yarışması Jüri Özel ödülü,
-“Shtriga; Bir Vampir Rüyası” adlı kısa filmle Ege Üniversitesi 2004 kısa film festivalinde En
-İyi Film ödüllerini kazandı. Birçok televizyon dizi ve programının yanı sıra, sinema filmi ve
-belgesel projelerinde de çeşitli görevler aldı.
+Doç. Dr. Ulaş Işıklar, 1977’de Kırklareli’nde doğdu. Lisans öğrenimini Ege Üniversitesi İletişim Fakültesi Radyo TV Sinema Bölümü’nde bitirdikten sonra, yüksek lisans ve doktorasını aynı üniversitede sinema üzerine yaptı. İstanbul Beykent Üniversitesi Güzel Sanatlar Fakültesi Sinema TV (İngilizce) Bölümü’nde öğretim üyesi olarak görev yapmaktadır.
 
-2010’da “Gecenin Çocukları: Son Dönem Korku Sinemasında Vampir Karakterinin
-Dönüşümü” adlı akademik sinema kitabı Avrupa Yakası Yayınları etiketiyle yayımlandı.
-Sinemayla ilgili pek çok kitap ve dergide akademik makaleleri yer aldı. İlk romanı “Gece
-Gelen”, 2013’te Geoturka Yayınları tarafından yayımlandı. Nietzsche, Camus ve Sartre
-felsefelerinden ipuçları barındıran ikinci romanı “Karasinek” 2020’de, varoluşçu bir Trakya
-anlatısı olan üçüncü romanı “39 Merkez; Bir Trakya Kentinde Kısa Film Çekmenin Aşırı
-Acıklı ve Pek Gülünç Hikâyesi” 2021’de Klaros Yayınları etiketiyle yayımlandı. Bir diğer
-akademik sinema kitabı “Nuri Bilge Ceylan Sinemasında Nihilizm” ise, 2021’de yine Klaros
-Yayınları’ndan çıktı.
+Birçok kısa film, video-klip, tanıtım ve eğitim filminin yönetmenliğini yaptı. Ege Üniversitesi kısa film yarışmasında Birincilik ve Selçuk Üniversitesi kısa film yarışmasında Jüri Özel ödülü kazandı. Televizyon dizi ve programlarının yanı sıra, sinema filmi ve belgesel projelerinde de çeşitli görevler aldı. 
 
-Hâlihazırda sinema-felsefe alanında tamamladığı doktora tezine uygun şekilde, ‘felsefi’
-temaları irdelediği edebi metin ve senaryo yazma çalışmalarını sürdürmekte, ayrıca lisans
-düzeyinde “Advanced Script Writing”, “Cinematography”, “Film Production”, yüksek lisans
-düzeyinde ise “Sinema ve Diğer Mecralar” ve “Kültürel Film Eleştirisi” derslerini
-vermektedir.
+Pek çok kitap ve dergide sinemayla ilgili makaleleri yer aldı. Gecenin Çocukları; Son Dönem Korku Sinemasında Vampir Karakterinin Dönüşümü (2010), Nuri Bilge Ceylan Sinemasında Nihilizm (2021), Gölgelerdeki Auteur: Tayfun Pirselimoğlu Sineması (2021) ve Demirkubuz Yolu Yok… Çekeceksin! (2024) adlı akademik sinema kitapları yayımlandı. Ayrıca, Gece Gelen (2013), Karasinek (2020) ve 39 Merkez; Bir Trakya Kentinde Kısa Film Çekmenin Aşırı Acıklı ve Pek Gülünç Hikâyesi (2021) isimli romanları okurlarla buluştu. Z Raporu başlıklı öyküsü, 3. Oğuz Atay Öykü Yarışması’na başvuran beş yüz elli öykü arasından on bir eserlik kitap seçki listesine girerek özel anı ödülüne layık bulundu (2023).
 
+Yönetmenliğini ve senaristliğini üstlendiği on üçüncü kısa filmi Cafe De Film’i 20’s Film ve Moskitos Film’in yapım desteğiyle 2024’te çekti.  
 
-## KISA FİLM KARİYERİ VE KAZANDIĞI ÖDÜLLER
+Hâlihazırda ‘felsefi’ temaları irdelediği edebi metin ve senaryo yazma çalışmalarını sürdürmekte, ayrıca lisans düzeyinde “Advanced Script Writing”, “Cinematography”, “Film Production”, yüksek lisans düzeyinde ise “Sinema ve Diğer Mecralar” ve “Kültürel Film Eleştirisi” derslerini vermektedir. 
 
-   “Gözü Tamamen Dönmüş”, 2002, Yönetmen
-   “Dip”, 2002, Yönetmen
-   “Mutlu Son”, 2002, Yönetmen
-   “Nemesis; Ölüler Valsi”, 2003, Yönetmen (Ege Üniversitesi İletişim Fakültesi Kısa Film Yarışması En İyi Film Ödülü & Konya Selçuk Üniversitesi Kısa Film Yarışması Prof. Dr. Alim Şerif Onaran Jüri Özel Ödülü)
-   “Bulantı”, 2003, Yönetmen (Hisar Kısa Film Seçkisine Değer Bulundu)
-   “Shtriga; Bir Vampir Rüyası”, 2004, Yönetmen (Ege Üniversitesi Ulusal Kısa Film Festivali En İyi Film Ödülü)
-   “Nemesis II; Ölmek Zamanı”, 2007, Yönetmen
-   “İdrak”, 2008, Yönetmen
-   “Teen-mare”, 2009, Yönetmen
-   “Ziyaret”, 2009, Yönetmen
+### ABOUT HIM
 
+Assoc. Prof. Dr. Ulaş Işıklar was born in Kırklareli in 1977. After completing his undergraduate education at Ege University, Faculty of Communication, Department of Radio, TV and Cinema, he completed his master's and PhD on cinema at the same university. He works as a lecturer at İstanbul Beykent University, Faculty of Fine Arts, Department of Cinema and TV (English).
 
+He directed many short films, video clips, promotional and educational films. He won first place in the Ege University short film competition and the Special Jury Prize in the Selçuk University short film competition. In addition to television series and programs, he also took on various roles in feature films and documentary projects.
 
-### Kısa Film Projelerinde Diğer Görevler
+His articles about cinema appeared in many books and magazines. His academic cinema books titled Children of the Night; The Transformation of the Vampire Character in Recent Horror Cinema (2010), Nihilism in the Cinema of Nuri Bilge Ceylan (2021), Auteur in the Shadows: Tayfun Pirselimoğlu Cinema (2021) and Demirkubuz There is No Way... You Will Suffer! (2024) were published.
 
-   “Kırılgan”, 2001, Yönetmen Yardımcısı
-   “Kırmızı Düet”, 2004, Yönetmen Yardımcısı
-   “Büyük Kapatılma”, 2004, Yönetmen Yardımcısı
-   “Daima Tam Orada Olacağım”, 2002, Yönetmen Yardımcısı & Senarist
-   “Şemsiye”, 2002, Sanat Yönetmeni
-   “Koleksiyoncu”, 2003, Proje Sorumlusu
-   “Balık”, 2002, Kameraman
+Also, his novels titled She Who Comes in the Night (2013), Housefly (2020) and 39 Center; The Extremely Sad and Ridiculous Story of Shooting a Short Film in a Thracian City (2021) met with readers. His story titled Z Report (2023) was deemed worthy of the special memoir award by entering the book selection list of eleven works among the five hundred and fifty stories that applied to the 3rd Oğuz Atay Short Story Competition.
 
+He shot his 13th short film titled Cafe De Film in 2024 with the production support of 20's Film and Moskitos Film.
+
+He is currently continuing his literary text and script writing studies in which he examines 'philosophical' themes. He has also given lectures like "Advanced Script Writing", "Cinematography", "Film Production" at the undergraduate level, and "Cinema and Other Medium" and "Cultural Film Criticism" courses at the master's level.
+
+### KISA FİLM KARİYERİ VE KAZANDIĞI ÖDÜLLER
+
+“Gözü Tamamen Dönmüş”, 2002, Yönetmen & Senarist 
+“Dip”, 2002, Yönetmen & Senarist 
+“Mutlu Son”, 2002, Yönetmen & Senarist 
+“Nemesis; Ölüler Valsi”, 2003, Yönetmen & Senarist (Ege Üniversitesi İletişim Fakültesi Kısa Film Yarışması En İyi Film Ödülü & Konya Selçuk Üniversitesi Kısa Film Yarışması Prof. Dr. Alim Şerif Onaran Jüri Özel Ödülü) 
+“Bulantı”, 2003, Yönetmen & Senarist (Hisar Kısa Film Seçkisine Değer Bulundu) 
+“Shtriga; Bir Vampir Rüyası”, 2004, Yönetmen & Senarist (Ege Üniversitesi Ulusal Kısa Film Festivali En İyi Film Ödülü) 
+“Nemesis II; Ölmek Zamanı”, 2007, Yönetmen & Senarist 
+“İdrak”, 2008, Yönetmen 
+“Teen-mare”, 2009, Yönetmen 
+“Ziyaret”, 2009, Yönetmen
+“Tesadüf”, 2012, Yönetmen
+“Misafir”, 2014, Yönetmen & Senarist
+“Cafe De Film”, 2024, Yönetmen & Senarist
 
 ## PROFESYONEL SEKTÖREL MESLEKİ KARİYER
 ### Tanıtım & Eğitim Filmleri:
