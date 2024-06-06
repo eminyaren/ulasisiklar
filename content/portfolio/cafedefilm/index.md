@@ -32,4 +32,4 @@ Volkan, Ekrem, Zühre ve Petek sinema bölümünde okuyan üniversite öğrencil
 
 ### Fragman
 
-{{< youtube kGfgDo7hL5I&t >}}
+{{< youtube kGfgDo7hL5I >}}
